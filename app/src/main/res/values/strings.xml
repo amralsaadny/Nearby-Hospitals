@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">final mapbox 25 lower plaugins ssd</string>
+    <string name="access_token">pk.eyJ1IjoiYW1yYWxzYWFkbnkiLCJhIjoiY2wyampzemphMGcwcjNmczNoMGhnMXR6YiJ9.DGtDQ_9X2Ox2tNdYBd4v9g</string>
+    <string name="user_location_permission_explanation">1</string>
+    <string name="user_location_permission_not_granted">2</string>
+    <string name="button_icon_desc">location_bottun</string>
+
+
+</resources>
